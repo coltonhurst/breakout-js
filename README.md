@@ -3,4 +3,6 @@ Breakout game in pure JS. Followed the Gamedev Canvas tutorial.
 
 The tutorial can be found [here](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript).
 
-Currently, I'm following the tutorial! Though I really want to refactor the code and make things concise and pretty, I'll wait until I finish all 10 steps. Then I can go back and make some modifications :)
+I've currently finished the tutorial. I was originally planning on refactoring the code and adding some new features to the game, but that's tabled for now.
+
+This was a good project to learn the basics of the HTML canvas and how it can be used for game development. I can easily see how powerful HTML5 games can be easily written thanks to the new canvas.
